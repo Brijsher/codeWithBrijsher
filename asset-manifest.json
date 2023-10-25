@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/codeWithBrijsher/static/css/main.7ac57325.css",
+    "main.js": "/codeWithBrijsher/static/js/main.9f38194a.js",
+    "static/js/787.89032d2d.chunk.js": "/codeWithBrijsher/static/js/787.89032d2d.chunk.js",
+    "static/media/bozo-the-clown-bear-slide.jpg": "/codeWithBrijsher/static/media/bozo-the-clown-bear-slide.b3b595fc4f942ed9b641.jpg",
+    "index.html": "/codeWithBrijsher/index.html",
+    "main.7ac57325.css.map": "/codeWithBrijsher/static/css/main.7ac57325.css.map",
+    "main.9f38194a.js.map": "/codeWithBrijsher/static/js/main.9f38194a.js.map",
+    "787.89032d2d.chunk.js.map": "/codeWithBrijsher/static/js/787.89032d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac57325.css",
+    "static/js/main.9f38194a.js"
+  ]
+}
